@@ -1,0 +1,44 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static const MainColor1 = Color(0xFFfacc33);
+  static const MainColor = Color(0xFFF4aa33);
+  static const OnboardingColor = Color(0xFF40AA54);
+  static const SubTitle = Color(0xFFDDDDDD);
+  static const Title = Color(0xFF16162E);
+  static const BackIndctor = Color(0xFFF7F7F7);
+  static const TitleTextfiled = Color(0xFF8B8B97);
+  static const Red = Color(0xFFFF1414);
+  static const Border = Color(0xFFdddddd);
+  static const BorderVerifiction = Color(0xFFE1E1E1);
+  static const AppBarBack = Color(0xFFF2F6F3);
+  static const BorderColors = Color(0xFFECECEC);
+  static const TitleHome = Color(0xFF142B4A);
+  static const IconHome = Color(0xFFFFBB01);
+  static const GreyHome = Color(0xFF96A6A3);
+  static const ListTitle = Color(0xFF273433);
+  static const Search = Color(0xFFF2F5F6);
+  static const Background = Color(0xFFE5E5E5);
+  static const Diveder = Color(0xFFE9ECEC);
+  static const Star = Color(0xFFFCD11D);
+  static const Shadow = Color(0xFF4343B2);
+  static const RedDelete = Color(0xFFFF5A5F);
+  static const Color StatusActiveOuterColor = Color(0xFF58AC38);
+  static const Color IconPasswordColor = Color(0xFFB5B5B5);
+  static const Color StatusActiveBackgroundColor = Color(0x1F58AC38);
+  static const Color FillBackBottonColor = Color(0xFFF1F1F1);
+  static const Color TextHintColor = Color(0xFF78909C);
+  static const Color IconBackgroundColor = Color(0xffF8F8F9);
+  static const Color IconBoarderColor = Color(0xffE5E6E9);
+  static Color BaseShimmerColor = Colors.grey.shade300;
+  static Color HighlightShimmerColor = Colors.grey.shade100;
+  static const Color BackgroundColor = AppColors.Background;
+  static const Color FeaturedColor = Color(0xffEC008C);
+  static const Color FeaturedColorTwo = Color(0xff00C8FF);
+  static const Color BorderHomeCat = Color(0xffdee0e8);
+  static const Color BackHomeCat = Color(0xffcccccc);
+  static const Color SliderActive = Color(0xffdc3545);
+  static const Color SecondaryColor = Color(0xff555555);
+  static const Color BackColor = Color(0xfffbfbfb);
+  static const Color Orange = Colors.orange;
+}
